@@ -1,4 +1,4 @@
-# 🔍 Excel Lookup Functions Projects
+# 🔍 Excel Lookup Functions Mini Projects
 
 A collection of mini projects showcasing the practical use of Excel lookup functions for data retrieval, analysis, and reporting.
 
