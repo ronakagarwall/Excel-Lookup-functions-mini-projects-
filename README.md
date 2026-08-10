@@ -16,6 +16,7 @@ Used lookup functions to retrieve product details such as product name, category
 - Table Referencing
 - Excel Formula Application
 
+---
 
 ## 🏏 IPL Judge Dashboard
 
